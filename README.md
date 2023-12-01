@@ -1,2 +1,11 @@
-# Self-learning-notes
-This repository contains the code from all the hands-on practice sessions I undertook during my self-learning journey.
+#  Hands-On Work from My Self-Learning Journey
+
+ 
+Hi! I am Riyavarshini Arunprasad,</br> An enthusiastic learner on a never ending journey of continuous growth and exploration.
+
+I created this repository exclusively from the hands-on work I've undertaken while learning about each of my interests.
+
+
+
+
+
