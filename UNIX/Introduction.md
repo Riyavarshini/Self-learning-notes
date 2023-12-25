@@ -11,3 +11,13 @@ Examples include the Bash shell (used in Linux and Unix), Command Prompt (used i
 2. Graphical User Interface (GUI) Shells:
 Users interact with the operating system through a graphical interface with icons, windows, and menus.
 Examples include the Windows Explorer interface in Microsoft Windows and the desktop environment in macOS.
+
+<h2> ARCHITECTURE OF UNIX</h2>
+**Basic block diagram of UNIX OS:**
+!<img width="448" alt="Basic block diagram of unix OS" src="https://github.com/Riyavarshini/Self-learning-notes/assets/117080445/266dead3-f341-4a51-9f67-77319f4aa001">
+
+Four basics :
+* Kernel
+* Shell
+* Commands and Utilities
+* File system [data -> files; files -> directories; directories -> filesystem]
