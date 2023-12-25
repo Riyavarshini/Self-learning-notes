@@ -48,4 +48,19 @@ So, there are many spreadsheet application options open to you, from fully-featu
 * Visualising the data
 
 <h2> BASIC TERMINOLOGY IN EXCEL</h2>
-1. **WORKBOOK** : Workbooks are the highest-level component in Excel and are represented as a `.XLSX` file.
+
+1. **WORKBOOK** :
+   - Workbooks are the highest-level component in Excel and are represented as a `.XLSX` file.
+   - A workbook consists of one or more worksheets, each of which is represented by a tab in Excel.  
+2. **CELL**:
+   - Cell is the smallest unit in a spreadsheet and is identified by a unique reference that combines its column letter and row number.
+   - Each cell can contain data, such as numbers, text, dates, or formulas.
+3. **ROWS**:
+   - Horizontal arrangements of cells.
+   - Each row is identified by unique numbers 1,2,3...
+4. **COLUMNS**:
+   - Vertical arrangements of cells.
+   - Each columns is identified by unique letters A - Z,AA - ZZ,.....
+5. **ACTIVE CELL**:
+   - The active cell is the cell that is currently highlighted or outlined.
+   - Range of cells can be highlighted by `selecting and dragging down or across` or `SHIFT * ARROW KEYS`.
