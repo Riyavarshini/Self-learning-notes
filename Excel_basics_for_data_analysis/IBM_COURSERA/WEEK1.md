@@ -64,3 +64,21 @@ So, there are many spreadsheet application options open to you, from fully-featu
 5. **ACTIVE CELL**:
    - The active cell is the cell that is currently highlighted or outlined.
    - Range of cells can be highlighted by `selecting and dragging down or across` or `SHIFT * ARROW KEYS`.
+
+<h2> UNDERSTANDING RIBBON IN EXCEL</h2>
+The Ribbon is a graphical user interface element in Microsoft Excel,organized into a series of tabs, each containing groups of related commands. Each tab is designed to represent a specific set of tasks or functions.The following are some of the common tabs found in the Excel Ribbon:</BR>
+
+1. HOME - Contains frequently used commands for formatting, styling, and editing data.
+2. INSERT - Allows users to insert various elements into the worksheet, such as charts, tables, pictures, and shapes.
+3. PAGE LAYOUT - Deals with options related to the layout and appearance of the printed page, including themes, margins, and print settings.
+4. FORMULAS - Provides functions and tools for working with formulas and functions in Excel.
+5. DATA - Contains commands for sorting and filtering data, as well as tools for working with external data sources.
+6. REVIEW - Includes proofing tools, such as spelling and grammar check, and features for tracking changes in a workbook.
+7. VIEW - Controls the visibility and layout of the Excel window, including options for zooming, gridlines, and worksheet views.
+
+> **SHORTCUTS:**
+   * `ctrl + home` - goes to beginning of data
+   * `ctrl + end ` - goes to end of data
+   * `ctrl + arrows` - goes to appropriate end of column
+
+
