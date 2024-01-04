@@ -57,3 +57,50 @@ That's so simple directly choose cells and enter the data as required.
 * Formatting cells - adding colors to cells [rows / columns], cell data type
 * Formatting text in cells - Bold, italize, underline, change font size, color, alignment
 * Formatting numbers in a cell - formatting decimal palces, currencies
+
+<H2>THE BASIC FORMULAS AND FUNCTIONS</H2>
+FORMULAS ARE IDENTIFIED BY EXCEL ON ENCOUNTER OF SYMBOL '='
+EG. =SUM(A1,B1) 
+
+COMMON FUNCTIONS USED FOR STATISTICAL CALCULATIONS:
+= SUM()
+= COUNT()
+= MEDIAN()
+= AVG()
+= MIN()
+= MAX()
+CELLS VALUES CAN BE SELECTED MANUALLY OR CAN MENTION CELL RANGE
+
+**RELATIVE REFERENCES VS ABSOLUTE REFERENCES**
+
+**RELATIVE REFERENCE:** By default excel uses relative reference and are without dollar sign ($).
+The relative reference makes the cells reference free. It gives the fill function freedom to continue the order without restrictions.
+
+**ABSOLUTE REFERENCE:** It is a command which tells Excel to lock a reference.
+The dollar sign ($) is used to make references absolute.
+
+- Example of relative reference: A1
+- Example of absolute reference: $A$1
+<img width="429" alt="Screenshot 2024-01-04 at 7 33 56 PM" src="https://github.com/Riyavarshini/Self-learning-notes/assets/117080445/1595b24a-5f03-4096-ab77-bb305986677e">
+
+**LIST OF ERROR CODES**
+#N/A
+#NAME?
+#NULL!
+#REF!
+#VALUE!
+#DIV/0!
+
+**Summary and Highlights**
+* There are several features to modify views in Excel, and it is very straightforward to enter and edit data in a spreadsheet. 
+* You can move or copy data within a worksheet or between worksheets, and you can use AutoFill to automatically enter data that is in a series or that fits a pattern. 
+* You can format both cells and data in Excel. 
+* A formula is made up of several component parts, and formulas can perform calculations using numbers directly or by using references to data in the worksheet. 
+* You can use the Fill Handle in Excel to quickly copy formulas to other cells. 
+* There are several different categories of function you can use for different purposes, and you can search for a function by name, or by category. 
+* You can reference cells in the worksheet in your formulas by using relative, absolute, or mixed references. 
+* You can make a formula absolute by adding a dollar symbol ($) to a cell reference. 
+* If you get errors in your formulas, you can use the error-checking capabilities of Excel to resolve them. 
+
+**HANDS-ON EXERCISE**
+<img width="782" alt="Screenshot 2024-01-04 at 8 16 16 PM" src="https://github.com/Riyavarshini/Self-learning-notes/assets/117080445/60018539-830b-4e2d-b311-37ac38cb2c70">
