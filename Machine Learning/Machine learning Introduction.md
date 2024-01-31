@@ -1,4 +1,4 @@
-<h1> 🌟 Machine learning in Google Developer 🌟 </h1>
+<h1> 🌟 Introducation to Machine learning 🌟 </h1>
 
 **Machine learning** (ML) powers some of the most important technologies we use, from translation apps to autonomous vehicles. This course explains the core concepts behind ML.
 In basic terms, ML is the process of training a piece of software, called a model, to make useful predictions or generate content from data.
